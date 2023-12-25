@@ -6,7 +6,7 @@
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Lukm4n-xd&show_icons=true&theme=chartreuse-dark&locale=id">
 </p>
 <p align="center">
-<a href="https://github.com/Lukm4n-xd/Lukm4n-xd"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukm4n-xd&repo=sakera&theme=chartreuse-dark"></a>
+<a href="https://github.com/Lukm4n-xd/crack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Lukm4n-xd&repo=crack&theme=chartreuse-dark"></a>
 </p>
 <p align="center">
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukm4n-xd&layout=compact&theme=chartreuse-dark">
